@@ -47,39 +47,38 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 50
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: linux
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+        percent: 70
+        icon: linux
+        icon_pack: fab
+      - name: english
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: language
         icon_pack: fas
-      - name: Cats
+        
+  - name: Hobby
+    items:
+      - name: Drawing
+        description: ''
+        percent: 99
+        icon: paintbrush
+        icon_pack: fas
+      - name: chatting
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        icon: telegram
+        icon_pack: fab
+      - name: sleep
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 100
+        icon: bed
         icon_pack: fas
-
+  
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
