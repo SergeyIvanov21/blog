@@ -87,21 +87,28 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-    label: Follow me on Twitter
     display:
       header: true
+  - icon: etsy
+    icon_pack: fab
+    link: https://elibrary.ru/defaultx.asp
+  - icon: graduation-cap # Alternatively, use google-scholar icon from ai icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/
+  - icon: mendeley
+    icon_pack: fab
+    link:  https://www.mendeley.com/
+  - icon: autoprefixer
+    icon_pack: fab
+    link:  https://independent.academia.edu/SergeyIvanov192
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/
   - icon: github
     icon_pack: fab
-    link: https://github.com/SergeyIvanov21/
   - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon_pack: fab  
+    link:  https://www.researchgate.net/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
